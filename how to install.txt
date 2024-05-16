@@ -1,0 +1,1 @@
+In tradingview, go to Pine Editor, create a new indicator and paste my code in the editor. Save the code and apply it to your charts.
